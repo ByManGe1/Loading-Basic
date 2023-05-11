@@ -1,0 +1,11 @@
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\bin\Debug\LoadingBasic.exe.config
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\bin\Debug\LoadingBasic.exe
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\bin\Debug\LoadingBasic.pdb
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\obj\Debug\LoadingBasic.csproj.AssemblyReference.cache
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\obj\Debug\LoadingBasic.csproj.SuggestedBindingRedirects.cache
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\obj\Debug\LoadingBasic.Form1.resources
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\obj\Debug\LoadingBasic.Properties.Resources.resources
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\obj\Debug\LoadingBasic.csproj.GenerateResource.cache
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\obj\Debug\LoadingBasic.csproj.CoreCompileInputs.cache
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\obj\Debug\LoadingBasic.exe
+C:\Users\ManGe04\source\repos\LoadingBasic\LoadingBasic\obj\Debug\LoadingBasic.pdb
